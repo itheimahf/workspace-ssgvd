@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vue:war">
+    <output-path>$PROJECT_DIR$/vue/target</output-path>
+    <root id="archive" name="vue-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="vue:war exploded" />
+    </root>
+  </artifact>
+</component>
