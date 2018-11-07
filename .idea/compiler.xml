@@ -19,7 +19,9 @@
       <module name="jpa" target="1.5" />
       <module name="jpa_day01" target="1.5" />
       <module name="jpa_day03" target="1.5" />
+      <module name="jpa_demo" target="1.5" />
       <module name="spring-boot-security" target="1.8" />
+      <module name="springdata_jpa" target="1.5" />
       <module name="vue" target="1.5" />
     </bytecodeTargetLevel>
   </component>
